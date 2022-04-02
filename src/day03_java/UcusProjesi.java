@@ -40,7 +40,7 @@ public class UcusProjesi {
                 if (secim == 1) {
                     System.out.println("Bilet ücretiniz: " + sehirC * 0.70 + "$");
                 } else if (secim == 2) {
-                    System.out.println("Bilet ücretiniz: " + sehirC * 0.70 * 0.80 + "$");
+                    System.out.println("Bilet ücretiniz: " + (sehirC * 0.70 * 0.80)*2 + "$");
                 } else {
                     System.out.println("Hatali giris yaptiniz");
                 }
@@ -48,7 +48,7 @@ public class UcusProjesi {
                 if (secim == 1) {
                     System.out.println("Bilet ücretiniz: " + sehirD * 0.70 + "$");
                 } else if (secim == 2) {
-                    System.out.println("Bilet ücretiniz: " + sehirD * 0.70 * 0.80 + "$");
+                    System.out.println("Bilet ücretiniz: " + (sehirD * 0.70 * 0.80)*2 + "$");
                 } else {
                     System.out.println("Hatali giris yaptiniz");
                 }
@@ -58,7 +58,7 @@ public class UcusProjesi {
                 if (secim == 1) {
                     System.out.println("Bilet ücretiniz: " + sehirB * 0.50 + "$");
                 } else if (secim == 2) {
-                    System.out.println("Bilet ücretiniz: " + sehirB * 0.50 * 0.80 + "$");
+                    System.out.println("Bilet ücretiniz: " + (sehirB * 0.50 * 0.80)*2 + "$");
                 } else {
                     System.out.println("Hatali giris yaptiniz");
                 }
@@ -66,7 +66,7 @@ public class UcusProjesi {
                 if (secim == 1) {
                     System.out.println("Bilet ücretiniz: " + sehirC * 0.50 + "$");
                 } else if (secim == 2) {
-                    System.out.println("Bilet ücretiniz: " + sehirC * 0.50 * 0.80 + "$");
+                    System.out.println("Bilet ücretiniz: " + (sehirC * 0.50 * 0.80)*2 + "$");
                 } else {
                     System.out.println("Hatali giris yaptiniz");
                 }
@@ -74,7 +74,7 @@ public class UcusProjesi {
                 if (secim == 1) {
                     System.out.println("Bilet ücretiniz: " + sehirD * 0.50 + "$");
                 } else if (secim == 2) {
-                    System.out.println("Bilet ücretiniz: " + sehirD * 0.50 * 0.80 + "$");
+                    System.out.println("Bilet ücretiniz: " + (sehirD * 0.50 * 0.80)*2 + "$");
                 } else {
                     System.out.println("Hatali giris yaptiniz");
                 }
@@ -85,7 +85,7 @@ public class UcusProjesi {
                 if (secim == 1) {
                     System.out.println("Bilet ücretiniz: " + sehirB * 0.90 + "$");
                 } else if (secim == 2) {
-                    System.out.println("Bilet ücretiniz: " + sehirB * 0.90 * 0.80 + "$");
+                    System.out.println("Bilet ücretiniz: " + (sehirB * 0.90 * 0.80)*2 + "$");
                 } else {
                     System.out.println("Hatali giris yaptiniz");
                 }
@@ -93,7 +93,7 @@ public class UcusProjesi {
                 if (secim == 1) {
                     System.out.println("Bilet ücretiniz: " + sehirC * 0.90 + "$");
                 } else if (secim == 2) {
-                    System.out.println("Bilet ücretiniz: " + sehirC * 0.90 * 0.80 + "$");
+                    System.out.println("Bilet ücretiniz: " + (sehirC * 0.90 * 0.80)*2 + "$");
                 } else {
                     System.out.println("Hatali giris yaptiniz");
                 }
@@ -101,7 +101,7 @@ public class UcusProjesi {
                 if (secim == 1) {
                     System.out.println("Bilet ücretiniz: " + sehirD * 0.90 + "$");
                 } else if (secim == 2) {
-                    System.out.println("Bilet ücretiniz: " + sehirD * 0.90 * 0.80 + "$");
+                    System.out.println("Bilet ücretiniz: " + (sehirD * 0.90 * 0.80)*2 + "$");
                 } else {
                     System.out.println("Hatali giris yaptiniz");
                 }
@@ -111,7 +111,7 @@ public class UcusProjesi {
                 if (secim == 1) {
                     System.out.println("Bilet ücretiniz: " + sehirB + "$");
                 } else if (secim == 2) {
-                    System.out.println("Bilet ücretiniz: " + sehirB * 0.80 + "$");
+                    System.out.println("Bilet ücretiniz: " + (sehirB * 0.80)*2 + "$");
                 } else {
                     System.out.println("Hatali giris yaptiniz");
                 }
@@ -119,7 +119,7 @@ public class UcusProjesi {
                 if (secim == 1) {
                     System.out.println("Bilet ücretiniz: " + sehirC + "$");
                 } else if (secim == 2) {
-                    System.out.println("Bilet ücretiniz: " + sehirC * 0.80 + "$");
+                    System.out.println("Bilet ücretiniz: " + (sehirC * 0.80)*2 + "$");
                 } else {
                     System.out.println("Hatali giris yaptiniz");
                 }
@@ -127,7 +127,7 @@ public class UcusProjesi {
                 if (secim == 1) {
                     System.out.println("Bilet ücretiniz: " + sehirD + "$");
                 } else if (secim == 2) {
-                    System.out.println("Bilet ücretiniz: " + sehirD * 0.80 + "$");
+                    System.out.println("Bilet ücretiniz: " + (sehirD * 0.80)*2 + "$");
                 } else {
                     System.out.println("Hatali giris yaptiniz");
                 }
