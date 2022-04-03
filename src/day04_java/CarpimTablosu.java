@@ -13,7 +13,7 @@ public class CarpimTablosu {
             // 1 x 8 = 8
             // 1 x 9 = 9
             // 1 x 10 = 10
-            // Yuarıdaki çarpım tablosunu 10 a kadar ekrana yazdırınız.
+            // Yukarıdaki çarpım tablosunu 10 a kadar ekrana yazdırınız.
 
             for (int i = 1; i <=10 ; i++) {
                 for (int j = 1; j <= 10; j++) {
