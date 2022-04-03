@@ -16,7 +16,7 @@ public class UcusProjesi {
                                                                           */
 
         Scanner scan = new Scanner(System.in);
-        System.out.print("JavaAirlans havayoluna hosgeldiniz \n B \n C \n D \n sehirlerinden birini seciniz : ");
+        System.out.print("JavaAirlines havayoluna hosgeldiniz \n B \n C \n D \n sehirlerinden birini seciniz : ");
         String sehir = scan.next().toUpperCase();
         System.out.print("Lutfen tek yöne gidecekseniz 1 i \ncift yöne gidecekseniz 2 yi seciniz : ");
         int secim = scan.nextInt();
