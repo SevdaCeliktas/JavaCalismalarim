@@ -8,7 +8,7 @@ public class Faktoriyel {
         //Kullanıcıdan alacagınız bir tamsayinin faktoriyelini bulunuz.
 
         Scanner scan = new Scanner(System.in);
-        System.out.print("Lutfen bir tamsayi giriniz : ");
+        System.out.print("Lütfen bir tamsayi giriniz : ");
         int sayi = scan.nextInt();
 
         int faktoriyel = 1;
