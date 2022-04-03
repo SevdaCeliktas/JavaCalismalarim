@@ -6,13 +6,13 @@ public class UcusProjesi {
     public static void main(String[] args) {
 
         /*
-    A şehrinden uçmak isteyen bir yolcu B şehrine 500km C şehrine  700km  D şehrine  900 km mesafededir.
+    A şehrinden uçmak isteyen bir yolcu B şehrine 500 km, C şehrine 700 km, D şehrine 900 km mesafededir.
     Bilet tarifesi:
     km birim fiyati : 0.10$
-    yolcu 12 yasindan kucukse toplam fiyat %50 indirim,
+    Yolcu 12 yasindan kucukse toplam fiyat %50 indirim,
     12 ve 24 yas arasindaysa 10% indirim,
     65 yasindan buyukse 30% indirim,
-    bilet gidis donus alinirsa 20% indirim uygulayan bi app create ediniz.
+    Bilet gidis donus alinirsa 20% indirim uygulayan bi app create ediniz.
                                                                           */
 
         Scanner scan = new Scanner(System.in);
