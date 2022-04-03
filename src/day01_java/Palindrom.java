@@ -14,7 +14,6 @@ public class Palindrom {
         String kelime = scan.nextLine();
         palindromKontrolEt(kelime);
 
-
     }
 
     public static void palindromKontrolEt(String kelime) {
