@@ -28,7 +28,7 @@ public class WhileNegatifDeger {
            }
 
        }
-        System.out.println("Girilen tek sayilarin toplami : " + toplam );
+        System.out.println("Girilen tek sayilarin toplami : " + toplam);
 
 
 
