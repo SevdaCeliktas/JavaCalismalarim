@@ -2,7 +2,7 @@ package day01_java;
 
 import java.util.Scanner;
 
-public class Palindrom {
+public class PalindromMethodlu {
     public static void main(String[] args) {
 
         //Kullanıcıdan bir String isteyin.
