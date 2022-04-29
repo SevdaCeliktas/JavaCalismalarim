@@ -11,7 +11,7 @@ public class Lambda2 {
 
         List<Integer> tekSayiSirala = new ArrayList<>(Arrays.asList(1,5,3,6,8,0,7,1,9,2,7,5,3));
 
-        tekSayiSirala.
+        tekSayiSirala.  // akış kaynagı
                 stream().  // akışı al
                 filter(t-> t%2==1).  // tek sayıları bul
                 distinct().   // tekrar edenleri cıkar
