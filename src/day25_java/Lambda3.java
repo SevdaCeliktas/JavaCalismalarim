@@ -20,5 +20,6 @@ public class Lambda3 {
                 sorted().
                 distinct().
                 forEach(t->System.out.print(t + " "));
+
     }
 }
