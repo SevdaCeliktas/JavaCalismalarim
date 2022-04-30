@@ -12,7 +12,6 @@ public class Lambda3 {
 
         List<String> menu = new ArrayList<>(Arrays.asList("borek","browni","dondurma","pasta","keskul","browni","corek","sutlac"));
 
-
         menu.
                 stream().
                 //map(String::toUpperCase).
